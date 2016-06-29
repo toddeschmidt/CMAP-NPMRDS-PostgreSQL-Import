@@ -1,2 +1,2 @@
 # CMAP-NPMRDS-PostgreSQL-Import
-test
+Process in use at CMAP to import NPMRDS data into a PostgreSQL database
